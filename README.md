@@ -43,3 +43,4 @@ I am seeking a community that values initiative, adaptability, and visible effor
 . I am applying to move from being an isolated sovereign to becoming a node in a high-trust, high-asabiya network where individuals are judged by what they actually build
 .
 Contact: ElkinJohn@gmail.com Full Portfolio: John Elkins Portfolio (Notion)
+**Full Technical Portfolio:** [🌐 View John Elkins Master Ledger](https://plum-grip-1d6.notion.site/John-Elkins-2324f4763d1749a28b6a568314bbbbd4?)
