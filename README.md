@@ -36,6 +36,7 @@ Infrastructure: Researching non-custodial financial tools like Coinkite/Coldcard
 Synthesis Engine: Utilizing NotebookLM as a "centralized optimization" engine to bootstrap a decentralized end-state, processing dense philosophical and technical texts at scale
 .
 Skills: Command-line proficiency, digital organization, and cross-platform troubleshooting
+**Full Technical Portfolio:** [🌐 View John Elkins Master Ledger](https://plum-grip-1d6.notion.site/John-Elkins-2324f4763d1749a28b6a568314bbbbd4?)
 .
 Why I am Applying to The Network School
 I am seeking a community that values initiative, adaptability, and visible effort
